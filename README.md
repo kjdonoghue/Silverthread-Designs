@@ -63,19 +63,22 @@ Server Side:
 ```
 ## Screenshots
 
-View a demo of Silverthread Designs Management Software on [YouTube](https://youtu.be/ZD8gCwgMNpI) </p> 
+View a demo of Silverthread Designs Management Software on [YouTube](https://youtu.be/ZD8gCwgMNpI
 
 ### Log In Page:
 <img width="350" alt="Login" src="./images/login.png">
 
+### Dashboard Page:
+<img width="350" alt="Dashboard" src="./images/dashboard.png">
+
 ### Materials Page:
-<img width="350" alt="Login" src="./images/materials.png">
+<img width="350" alt="Materials" src="./images/materials.png">
 
 ### Products Page with Add Product Input:
-<img width="350" alt="Login" src="./images/products.png">
+<img width="350" alt="Products" src="./images/products.png">
 
 ### Sales Page:
-<img width="350" alt="Login" src="./images/sales.png">
+<img width="350" alt="Sales" src="./images/sales.png">
 
 ## Team Members
 - Katy Donoghue - https://github.com/kjdonoghue
